@@ -1,5 +1,4 @@
-   #
-   Generating image captions with the BLIP model
+   #  Generating image captions with the BLIP model
 
-   # Using gradio
+   Using gradio for web-interface 
    
